@@ -10,7 +10,7 @@ public class Level1_86051 {
  
     public static void main(String[] args) {
 
-        int[] numbers = {5,8,4,0,6,7,9};
+        int[] numbers = {5,8,4,0,6,7,9}; //
         System.out.println(solution(numbers));
         System.out.println(solution2(numbers));
     }
