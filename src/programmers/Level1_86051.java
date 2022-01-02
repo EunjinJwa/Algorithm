@@ -43,5 +43,5 @@ public class Level1_86051 {
         }
         return sum;
     }
-    
+
 }
