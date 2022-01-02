@@ -15,7 +15,7 @@ public class Level1_77484 {
         int[] win_numbers = {1,5,9,24,33};
         int[] result = solution(lottos, win_numbers);
         for (int num : result) {
-            System.out.println(num);
+            System.out.println(num );
         }
     }
 
