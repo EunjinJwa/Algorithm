@@ -3,7 +3,7 @@ package programmers;
 import java.util.Arrays;
 
 /**
- * 제목    : 로또의 최고 순위와 최저 순위
+ * 제목    : 로또의 최고 순위와 최저 순위 f
  * 링크    : https://programmers.co.kr/learn/courses/30/lessons/77484
  * date   : 2022-01-02
  * Description :
@@ -15,7 +15,7 @@ public class Level1_77484 {
         int[] win_numbers = {1,5,9,24,33};
         int[] result = solution(lottos, win_numbers);
         for (int num : result) {
-            System.out.println(num );
+            System.out.println(num);
         }
     }
 
