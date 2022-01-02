@@ -6,8 +6,8 @@ package programmers;
  * date   : 2022-01-02
  * Description :
  */
-public class Level1_86051 { 
-
+public class Level1_86051 {
+ 
     public static void main(String[] args) {
 
         int[] numbers = {5,8,4,0,6,7,9};
