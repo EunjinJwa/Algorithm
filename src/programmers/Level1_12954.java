@@ -16,16 +16,18 @@ public class Level1_12954 {
         System.out.println(Arrays.toString(solution.solution(-2 ,2)));
 
     }
-}
 
-class Solution {
-    public long[] solution(int x, int n) {
-        long[] answer = new long[n];
+    static class Solution {
+        public long[] solution(int x, int n) {
+            long[] answer = new long[n];
 
-        int idx = 0;
-        for (long i = 0; i < n; i++) {
-            answer[idx++] = x * (i+1);
+            int idx = 0;
+            for (long i = 0; i < n; i++) {
+                answer[idx++] = x * (i+1);
+            }
+            return answer;
         }
-        return answer;
     }
+
 }
+
