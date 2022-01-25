@@ -10,7 +10,7 @@ package programmers;
 public class Level1_12947 {
 
     public static void main(String[] args) {
-        System.out.println(new Solution().solution(11)); 
+        System.out.println(new Solution().solution(11));  
     }
 
     static class Solution {
