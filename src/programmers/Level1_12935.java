@@ -15,7 +15,7 @@ import java.util.stream.IntStream;
 public class Level1_12935 {
 
     public static void main(String[] args) {
-        int[] arr = {4,3,2,1};
+        int[] arr = {4,3,2,1}; 
         System.out.println(Arrays.toString(new Solution().solution(arr)));
     }
 
